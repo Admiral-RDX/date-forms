@@ -1,2 +1,1 @@
-import { example } from './index';
-console.log(example());
+export * from './index';
